@@ -3,8 +3,28 @@
 [![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](LICENSE)  
 [![Status: In Development](https://img.shields.io/badge/status-in--development-orange.svg)]()
 
-StockPRT (Stock Prediction and Recommendation Tool) is a Python project for stock market prediction. It is currently under development and aims to use machine learning to analyze historical stock data and generate predictions.
+StockPRT (**Stock Prediction & Recommendation Tool**) is an experimental machine learning project that predicts stock price movements using historical data. It is currently under development and is designed for learning, experimentation, and future expansion into AI-driven trading tools.
 
+---
+
+## 🔥 Features (Work in Progress)
+
+✅ Load and analyze stock price data  
+✅ Build prediction models  
+✅ Generate trading signals  
+✅ Simple and modular structure  
+🚧 More ML models coming soon
+
+---
+## 🛠️ Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| Python | Core language |
+| Pandas | Data handling |
+| NumPy | Calculations |
+| Scikit-learn | ML models |
+| Matplotlib | Plotting (planned) |
 ---
 
 ## ✅ Goals
